@@ -4,13 +4,12 @@
 
 **If you are Anthony:**
 
-1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
-2. At the beginning of every year archive the document.
-3. Around your birthday every year, write a new yearly report.
+1. As often as you can: re-read this document and look for updates and changes.
+2. Around your birthday every year, write a new yearly report and archive it.
 
 **If you aren't Anthony:**
 
-1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
+1. Read this with the understanding that you are different than me.
 2. Read the [What is this?](#what-is-this) to figure out what is going on here, then come back and read through the [Beliefs](#beliefs) that seem interesting to you.
 3. Check the [Changelog](#yearly-reports) for updates since you last visited.
 4. Consider creating your own Codex ( [here's the template I based mine off of](https://www.penflip.com/terrie/codex-vitae-template) )
@@ -21,7 +20,7 @@
 
 - [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
 - [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
-- [Type 3: Opinions: beliefs about society and individuals](#type-3-opinions)
+- [Type 3: Opinions: beliefs about politics and society](#type-3-opinions)
 - [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
 
 #### Personal Canon
@@ -50,10 +49,10 @@ Posts about this topic: [Codex Vitae](http://wayoftheduck.com/codex-vitae).
 ### Type 1: Metabeliefs
 Beliefs about beliefs.
 
-- This section's purpose is to capture my beliefs about the universe.
 - This document is always incomplete, imperfect, and out of date.
 - Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
-- I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance.
+- I’m open to changing my mind at any time about any belief.
+- Evidence and data form the strongest beliefs about the world.
 - Beliefs should [pay rent](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/) in anticipated experiences.
 
 ### Type 2: Perceptions
@@ -63,7 +62,7 @@ How reality seems to be. 2A is about how my mind and senses seem to work, 2B is 
 Personal mental and physical abilities, constraints, and biases.
 
 - Free will is mostly an illusion, but a nice one to keep because it is highly practical.
-- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (again, it's practical).
+- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe.
 - Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities.
 - Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
 - Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
@@ -80,7 +79,7 @@ My take on the spiritual and supernatural.
 
 - We don't have a "purpose" given to us, and that is a [good thing](https://youtu.be/3ht-ZyJOV2k).
 - Souls don't exist as separate from the physical body.
-- The gods of humanity's numerous religions do not exist.
+- Gods do not exist.
 - Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
 - Astrology is entertainment, like the Myers Briggs test.
 - Science can't explain everything, but it *is* the current best way to try and start.
@@ -89,21 +88,20 @@ My take on the spiritual and supernatural.
 - Magic does not exist. If it did, science could study it.
 
 #### 2C Perceptions: Explanatory
-Science, politics, and the universe.
+Science, and the universe.
 
 - Micro and macro evolution happens.
 - Something like the Big Bang happened.
 - Nothing in our universe can travel faster than light.
-- Non-carbon-based life forms are likely to exist.
-- Aliens are likely to exist, but we will most likely discover their creations (ie. robots they made) before we discover them.
-- Aliens will probably discover our own robots before they discover us.
-- The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
 - Time travel is not possible.
 - Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
 - Vaccinations are good for babies and society.
+- Homeopathy is completely ineffective.
+- Aliens are likely to exist, but we might never discover them.
+- The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
 
 ### Type 3: Opinions
-Beliefs about society and how it should be structured.
+Beliefs about politics and society.
 
 - Gay marriage should be legal everywhere.
 - Abortion should be legal everywhere.
@@ -135,12 +133,12 @@ How I think things will be in the future. (contains degree of confidence)
 ### My Games
 Games that I've made.
 
-* (In Progress)[Slay the Spire](www.megacrit.com)
+* (In Progress) [Slay the Spire](http://www.megacrit.com)
 
 ### My Projects
 Projects I have made that keep me busy.
 
-* [Stimhack](www.stimhack.com)
+* [Stimhack](http://www.stimhack.com)
 
 ### My Writing
 Stuff that I've written.
